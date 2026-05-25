@@ -1,0 +1,765 @@
+2024-12-15 16:05:04,474 [ERROR] Raw Data: !000a0200744879  201520241211 314525          11 1               FF01.000  82
+!001fCREA    1.0 mg/dL   00D5
+!002fGLU   155.  mg/dL   00DC
+!003h0075E7
+2024-12-15 16:05:04,476 [ERROR] Complete Packets Data: ['!000a0200744879  201520241211 314525          11 1               FF01.000  82\n!001fCREA    1.0 mg/dL   00D5\n!002fGLU   155.  mg/dL   00DC\n!003h0075E7']
+2024-12-15 16:05:04,477 [ERROR] Remaining Packets Data: []
+2024-12-15 16:05:07,100 [ERROR] Parsed Data: [{'barcode': '314525', 'id': 75, 'test_id': 74, 'name': 'S. Creatinine CREA', 'patient_name': 'Ahosan Liton', 'value': 1.0, 'unit': 'mg/dL'}, {'barcode': '314525', 'id': 4, 'test_id': 3, 'name': 'Random Plasma Glucos  GLU', 'patient_name': 'Ahosan Liton', 'value': 155.0, 'unit': 'mg/dL'}]
+2024-12-15 16:07:15,141 [INFO] Raw Data: !000a0200744879  201520241211 314525          11 1               FF01.000  82
+!001fCREA    1.0 mg/dL   00D5
+!002fGLU   155.  mg/dL   00DC
+!003h0075E7
+2024-12-15 16:07:15,141 [INFO] Complete Packets Data: ['!000a0200744879  201520241211 314525          11 1               FF01.000  82\n!001fCREA    1.0 mg/dL   00D5\n!002fGLU   155.  mg/dL   00DC\n!003h0075E7']
+2024-12-15 16:07:15,141 [INFO] Remaining Packets Data: []
+2024-12-15 16:07:15,482 [INFO] Parsed Data: [{'barcode': '314525', 'id': 75, 'test_id': 74, 'name': 'S. Creatinine CREA', 'patient_name': 'Ahosan Liton', 'value': 1.0, 'unit': 'mg/dL'}, {'barcode': '314525', 'id': 4, 'test_id': 3, 'name': 'Random Plasma Glucos  GLU', 'patient_name': 'Ahosan Liton', 'value': 155.0, 'unit': 'mg/dL'}]
+2024-12-15 17:07:17,645 [INFO] Raw Data: !000a0200744879  2015202412111012348-2H          11 1               FF01.000  82
+!001fGLU   185.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:07:17,646 [INFO] Complete Packets Data: ['!000a0200744879  2015202412111012348-2H          11 1               FF01.000  82\n!001fGLU   185.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:07:17,647 [INFO] Remaining Packets Data: []
+2024-12-15 17:07:20,028 [INFO] Parsed Data: [{'barcode': '1012348', 'id': 2, 'test_id': 1, 'name': 'Fasting Plasma Gluco GLU', 'patient_name': 'Mr.Meraj Ahmed', 'value': 185.0, 'unit': 'mg/dL'}]
+2024-12-15 17:08:35,709 [INFO] Raw Data: !000a0200744879  2015202412111012348-2h          11 1               FF01.000  82
+!001fGLU   185.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:08:35,709 [INFO] Complete Packets Data: ['!000a0200744879  2015202412111012348-2h          11 1               FF01.000  82\n!001fGLU   185.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:08:35,710 [INFO] Remaining Packets Data: []
+2024-12-15 17:08:37,670 [INFO] Parsed Data: [{'barcode': '1012348', 'id': 60, 'test_id': 59, 'name': 'Plasma  Glucose 2 Ho GLU', 'patient_name': 'Mr.Meraj Ahmed', 'value': 185.0, 'unit': 'mg/dL'}]
+2024-12-15 17:09:23,879 [INFO] Raw Data: !000a0200744879  2015202412111012348-2h          11 1               FF01.000  82
+!001fGLU   185.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:09:23,879 [INFO] Complete Packets Data: ['!000a0200744879  2015202412111012348-2h          11 1               FF01.000  82\n!001fGLU   185.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:09:23,880 [INFO] Remaining Packets Data: []
+2024-12-15 17:09:25,688 [INFO] Parsed Data: [{'barcode': '1012348', 'id': 60, 'test_id': 59, 'name': 'Plasma  Glucose 2 Ho GLU', 'patient_name': 'Mr.Meraj Ahmed', 'value': 185.0, 'unit': 'mg/dL'}]
+2024-12-15 17:21:23,677 [INFO] Raw Data: !000a0200794879   1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:21:23,677 [INFO] Complete Packets Data: ['!000a0200794879   1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:21:23,677 [INFO] Remaining Packets Data: []
+2024-12-15 17:21:26,143 [INFO] Parsed Data: [{'barcode': '51012530', 'id': 0, 'test_id': 0, 'name': 'ECO2', 'patient_name': 'Unknown Patient', 'value': 20.0, 'unit': 'mg/dL'}]
+2024-12-15 17:26:43,209 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:26:43,209 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:26:43,209 [INFO] Remaining Packets Data: []
+2024-12-15 17:26:45,334 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 0, 'test_id': 0, 'name': ' ECO2', 'patient_name': 'Unknown Patient', 'value': 20.0, 'unit': 'mg/dL'}]
+2024-12-15 17:29:45,721 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:29:45,723 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:29:45,724 [INFO] Remaining Packets Data: []
+2024-12-15 17:29:48,046 [INFO] response_json Data: {'type': 'success', 'data': [{'test_id': 520, 'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, {'test_id': 74, 'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, {'test_id': 221, 'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, {'test_id': 157, 'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, {'test_id': 78, 'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, {'test_id': 324, 'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 17:29:48,046 [INFO] test_ids Data: {520: {'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, 74: {'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, 221: {'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, 157: {'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, 78: {'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, 324: {'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}}
+2024-12-15 17:29:48,047 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 0, 'test_id': 0, 'name': ' ECO2', 'patient_name': 'Unknown Patient', 'value': 20.0, 'unit': 'mg/dL'}]
+2024-12-15 17:33:38,874 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:33:38,875 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:33:38,877 [INFO] Remaining Packets Data: []
+2024-12-15 17:33:40,914 [INFO] response_json Data: {'type': 'success', 'data': [{'test_id': 520, 'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, {'test_id': 74, 'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, {'test_id': 221, 'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, {'test_id': 157, 'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, {'test_id': 78, 'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, {'test_id': 324, 'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 17:33:40,914 [INFO] test_ids Data: {520: {'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, 74: {'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, 221: {'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, 157: {'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, 78: {'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, 324: {'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}}
+2024-12-15 17:33:40,915 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 488, 'test_id': 221, 'name': 'Serum Electrolytes ECO2', 'patient_name': 'Md. Abu Taher', 'value': 20.0, 'unit': 'mg/dL'}]
+2024-12-15 17:50:08,130 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:50:08,131 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:50:08,131 [INFO] Remaining Packets Data: []
+2024-12-15 17:50:10,691 [INFO] response_json Data: {'type': 'success', 'data': [{'test_id': 520, 'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, {'test_id': 74, 'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, {'test_id': 221, 'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, {'test_id': 157, 'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, {'test_id': 78, 'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, {'test_id': 324, 'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 17:50:10,691 [INFO] test_ids Data: {520: {'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, 74: {'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, 221: {'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, 157: {'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, 78: {'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, 324: {'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}}
+2024-12-15 17:50:10,691 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 488, 'test_id': 221, 'name': 'Serum Electrolytes ECO2', 'patient_name': 'Md. Abu Taher', 'value': '20.00', 'unit': 'mg/dL'}]
+2024-12-15 17:53:03,700 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:53:03,703 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:53:03,705 [INFO] Remaining Packets Data: []
+2024-12-15 17:53:04,118 [INFO] response_json Data: {'type': 'success', 'data': [{'test_id': 520, 'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, {'test_id': 74, 'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, {'test_id': 221, 'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, {'test_id': 157, 'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, {'test_id': 78, 'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, {'test_id': 324, 'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 17:53:04,118 [INFO] test_ids Data: {520: {'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, 74: {'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, 221: {'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, 157: {'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, 78: {'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, 324: {'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}}
+2024-12-15 17:53:04,119 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 488, 'test_id': 221, 'name': 'Serum Electrolytes ECO2', 'patient_name': 'Md. Abu Taher', 'value': 20.0, 'unit': 'mg/dL'}]
+2024-12-15 17:59:40,635 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 17:59:40,638 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 17:59:40,638 [INFO] Remaining Packets Data: []
+2024-12-15 17:59:42,739 [INFO] response_json Data: {'type': 'success', 'data': [{'test_id': 520, 'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, {'test_id': 74, 'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, {'test_id': 221, 'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, {'test_id': 157, 'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, {'test_id': 78, 'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, {'test_id': 324, 'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 17:59:42,739 [INFO] test_ids Data: {520: {'test_name': 'Complete blood count', 'patient_name': 'Md. Abu Taher'}, 74: {'test_name': 'S. Creatinine', 'patient_name': 'Md. Abu Taher'}, 221: {'test_name': 'Serum Electrolytes', 'patient_name': 'Md. Abu Taher'}, 157: {'test_name': 'ECG (Resting)', 'patient_name': 'Md. Abu Taher'}, 78: {'test_name': 'X-Ray Chest P/A View', 'patient_name': 'Md. Abu Taher'}, 324: {'test_name': 'Echo Cardiogram (2D', 'patient_name': 'Md. Abu Taher'}}
+2024-12-15 17:59:42,739 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 488, 'test_id': 221, 'name': 'Serum Electrolytes ECO2', 'patient_name': 'Md. Abu Taher', 'value': '20.0', 'unit': 'mg/dL'}]
+2024-12-15 18:36:33,816 [INFO] Raw Data: !000a0200974879  1822432412151012550-C      11 6
+2024-12-15 18:36:33,816 [INFO] Complete Packets Data: []
+2024-12-15 18:36:33,816 [INFO] Remaining Packets Data: ['!000a0200974879  1822432412151012550-C      11 6']
+2024-12-15 18:36:48,317 [INFO] Raw Data: FF01.000  D4
+2024-12-15 18:36:48,317 [INFO] Complete Packets Data: []
+2024-12-15 18:36:48,318 [INFO] Remaining Packets Data: ['!000a0200974879  1822432412151012550-C      11 6', 'FF01.000  D4']
+2024-12-15 18:37:12,036 [INFO] Raw Data: !001fCREA     .9 mg/dL   00CD
+2024-12-15 18:37:12,036 [INFO] Complete Packets Data: []
+2024-12-15 18:37:12,036 [INFO] Remaining Packets Data: ['!000a0200974879  1822432412151012550-C      11 6', 'FF01.000  D4', '!001fCREA     .9 mg/dL   00CD']
+2024-12-15 18:37:19,761 [INFO] Raw Data: !002h0097EB
+2024-12-15 18:37:19,761 [INFO] Complete Packets Data: ['!000a0200974879  1822432412151012550-C      11 6\nFF01.000  D4\n!001fCREA     .9 mg/dL   00CD\n!002h0097EB']
+2024-12-15 18:37:19,761 [INFO] Remaining Packets Data: []
+2024-12-15 18:37:22,874 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 18:37:22,874 [INFO] test_ids Data: {}
+2024-12-15 18:37:22,875 [INFO] Parsed Data: [{'barcode': '1012550', 'id': 0, 'test_id': 0, 'name': 'CREA', 'patient_name': 'Unknown Patient', 'value': '0.90', 'unit': 'mg/dL'}]
+2024-12-15 18:46:26,498 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+2024-12-15 18:46:26,499 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 18:46:26,499 [WARNING] Data Packet: []
+2024-12-15 18:46:26,499 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 18:46:26,500 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 18:46:26,500 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 18:46:26,500 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', '!001fALTV   17.  U/L     0055']
+2024-12-15 18:46:26,500 [WARNING] Data line: !003h0098ED
+2024-12-15 18:46:26,500 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 18:46:26,501 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED']
+2024-12-15 18:46:26,501 [INFO] Remaining Packets Data: []
+2024-12-15 18:46:27,431 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 18:46:27,431 [INFO] test_ids Data: {}
+2024-12-15 18:46:27,431 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L'}]
+2024-12-15 18:49:23,074 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 18:49:23,074 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 18:49:23,074 [WARNING] Data Packet: []
+2024-12-15 18:49:23,074 [INFO] Complete Packets Data: []
+2024-12-15 18:49:23,074 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 18:49:38,055 [INFO] Raw Data: FF01.000  08
+2024-12-15 18:49:38,055 [WARNING] Data line: FF01.000  08
+2024-12-15 18:49:38,055 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 18:49:38,055 [INFO] Complete Packets Data: []
+2024-12-15 18:49:38,055 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 18:49:58,421 [INFO] Raw Data: !001fALTV   17.  U/L     0055
+2024-12-15 18:49:58,421 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 18:49:58,422 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 18:49:58,422 [INFO] Complete Packets Data: []
+2024-12-15 18:49:58,422 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 18:50:04,051 [INFO] Raw Data: !002fCREA    1.2
+2024-12-15 18:50:04,051 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 18:50:04,051 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 18:50:04,051 [INFO] Complete Packets Data: []
+2024-12-15 18:50:04,051 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 18:50:15,638 [INFO] Raw Data: mg/dL   00D8
+2024-12-15 18:50:15,638 [WARNING] Data line: mg/dL   00D8
+2024-12-15 18:50:15,638 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 18:50:15,638 [INFO] Complete Packets Data: []
+2024-12-15 18:50:15,638 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 18:50:27,134 [INFO] Raw Data: !003h0098ED
+2024-12-15 18:50:27,134 [WARNING] Data line: !003h0098ED
+2024-12-15 18:50:27,134 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 18:50:27,134 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\nFF01.000  08\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\nmg/dL   00D8\n!003h0098ED']
+2024-12-15 18:50:27,134 [INFO] Remaining Packets Data: []
+2024-12-15 18:50:27,339 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 18:50:27,339 [INFO] test_ids Data: {}
+2024-12-15 18:50:27,339 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L'}]
+2024-12-15 19:02:18,345 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:02:18,345 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:02:18,345 [WARNING] Data Packet: []
+2024-12-15 19:02:18,345 [INFO] Complete Packets Data: []
+2024-12-15 19:02:18,346 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:02:29,847 [INFO] Raw Data: FF01.000  08
+2024-12-15 19:02:29,847 [WARNING] Data line: FF01.000  08
+2024-12-15 19:02:29,847 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:02:29,847 [INFO] Complete Packets Data: []
+2024-12-15 19:02:29,847 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 19:02:37,822 [INFO] Raw Data: !001fALTV   17.  U/L     0055
+2024-12-15 19:02:37,822 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 19:02:37,822 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 19:02:37,822 [INFO] Complete Packets Data: []
+2024-12-15 19:02:37,822 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 19:02:45,190 [INFO] Raw Data: !002fCREA    1.2
+2024-12-15 19:02:45,190 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 19:02:45,190 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 19:02:45,190 [INFO] Complete Packets Data: []
+2024-12-15 19:02:45,190 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 19:02:56,383 [INFO] Raw Data: mg/dL   00D8
+2024-12-15 19:02:56,384 [WARNING] Data line: mg/dL   00D8
+2024-12-15 19:02:56,384 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 19:02:56,384 [INFO] Complete Packets Data: []
+2024-12-15 19:02:56,384 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 19:03:03,124 [INFO] Raw Data: !003h0098ED
+2024-12-15 19:03:03,124 [WARNING] Data line: !003h0098ED
+2024-12-15 19:03:03,124 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 19:03:03,124 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7 FF01.000  08 !001fALTV   17.  U/L     0055 !002fCREA    1.2 mg/dL   00D8 !003h0098ED']
+2024-12-15 19:03:03,124 [INFO] Remaining Packets Data: []
+2024-12-15 19:03:03,124 [WARNING] lines split ['!000a0200984879  1823042412151012551-CS     11 7 FF01.000  08 !001fALTV   17.  U/L     0055 !002fCREA    1.2 mg/dL   00D8 !003h0098ED']
+2024-12-15 19:03:05,178 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:03:05,178 [INFO] test_ids Data: {}
+2024-12-15 19:03:05,179 [INFO] Parsed Data: []
+2024-12-15 19:04:54,468 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:04:54,468 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:04:54,468 [WARNING] Data Packet: []
+2024-12-15 19:04:54,469 [INFO] Complete Packets Data: []
+2024-12-15 19:04:54,469 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:05:04,970 [INFO] Raw Data: FF01.000  08
+2024-12-15 19:05:04,970 [WARNING] Data line: FF01.000  08
+2024-12-15 19:05:04,970 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:05:04,970 [INFO] Complete Packets Data: []
+2024-12-15 19:05:04,970 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 19:06:11,159 [INFO] Raw Data: !001fALTV   17.  U/L     0055
+2024-12-15 19:06:11,159 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 19:06:11,159 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08']
+2024-12-15 19:06:11,159 [INFO] Complete Packets Data: []
+2024-12-15 19:06:11,160 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 19:06:16,911 [INFO] Raw Data: !002fCREA    1.2
+2024-12-15 19:06:16,911 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 19:06:16,911 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055']
+2024-12-15 19:06:16,911 [INFO] Complete Packets Data: []
+2024-12-15 19:06:16,911 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 19:06:25,810 [INFO] Raw Data: mg/dL   00D8
+2024-12-15 19:06:25,810 [WARNING] Data line: mg/dL   00D8
+2024-12-15 19:06:25,810 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2']
+2024-12-15 19:06:25,810 [INFO] Complete Packets Data: []
+2024-12-15 19:06:25,810 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 19:06:31,876 [INFO] Raw Data: !003h0098ED
+2024-12-15 19:06:31,876 [WARNING] Data line: !003h0098ED
+2024-12-15 19:06:31,876 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', 'mg/dL   00D8']
+2024-12-15 19:06:31,876 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7 FF01.000  08 !001fALTV   17.  U/L     0055 !002fCREA    1.2 mg/dL   00D8 !003h0098ED']
+2024-12-15 19:06:31,876 [INFO] Remaining Packets Data: []
+2024-12-15 19:06:31,876 [WARNING] lines split ['', '000a0200984879  1823042412151012551-CS     11 7 FF01.000  08 ', '001fALTV   17.  U/L     0055 ', '002fCREA    1.2 mg/dL   00D8 ', '003h0098ED']
+2024-12-15 19:06:31,876 [INFO] Parsed Data: []
+2024-12-15 19:08:53,742 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:08:53,742 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:08:53,742 [WARNING] Data Packet: []
+2024-12-15 19:08:53,742 [INFO] Complete Packets Data: []
+2024-12-15 19:08:53,742 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:09:12,993 [INFO] Raw Data: FF01.000  D4
+2024-12-15 19:09:12,993 [WARNING] Data line: FF01.000  D4
+2024-12-15 19:09:12,993 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7']
+2024-12-15 19:09:12,993 [INFO] Complete Packets Data: []
+2024-12-15 19:09:12,994 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  D4']
+2024-12-15 19:09:20,856 [INFO] Raw Data: !001fCREA     .9 mg/dL   00CD
+2024-12-15 19:09:20,856 [WARNING] Data line: !001fCREA     .9 mg/dL   00CD
+2024-12-15 19:09:20,856 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  D4']
+2024-12-15 19:09:20,856 [INFO] Complete Packets Data: []
+2024-12-15 19:09:20,857 [INFO] Remaining Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  D4', '!001fCREA     .9 mg/dL   00CD']
+2024-12-15 19:09:28,975 [INFO] Raw Data: !002h0097EB
+2024-12-15 19:09:28,975 [WARNING] Data line: !002h0097EB
+2024-12-15 19:09:28,975 [WARNING] Data Packet: ['!000a0200984879  1823042412151012551-CS     11 7', 'FF01.000  D4', '!001fCREA     .9 mg/dL   00CD']
+2024-12-15 19:09:28,975 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7 FF01.000  D4 !001fCREA     .9 mg/dL   00CD !002h0097EB']
+2024-12-15 19:09:28,975 [INFO] Remaining Packets Data: []
+2024-12-15 19:09:28,975 [WARNING] lines split ['', '000a0200984879  1823042412151012551-CS     11 7 FF01.000  D4 ', '001fCREA     .9 mg/dL   00CD ', '002h0097EB']
+2024-12-15 19:09:28,975 [INFO] Parsed Data: []
+2024-12-15 19:22:49,913 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:22:49,913 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:22:49,913 [WARNING] Data Packet: 
+2024-12-15 19:22:49,913 [INFO] Complete Packets Data: []
+2024-12-15 19:22:49,913 [INFO] Remaining Packets Data: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:23:14,493 [INFO] Raw Data: FF01.000  08
+2024-12-15 19:23:14,493 [WARNING] Data line: FF01.000  08
+2024-12-15 19:23:14,493 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:23:14,493 [INFO] Complete Packets Data: []
+2024-12-15 19:23:14,493 [INFO] Remaining Packets Data: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+2024-12-15 19:23:20,254 [INFO] Raw Data: !001fALTV   17.  U/L     0055
+2024-12-15 19:23:20,255 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 19:23:20,255 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+2024-12-15 19:23:20,255 [INFO] Complete Packets Data: []
+2024-12-15 19:23:20,255 [INFO] Remaining Packets Data: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+2024-12-15 19:23:26,386 [INFO] Raw Data: !002fCREA    1.2
+2024-12-15 19:23:26,387 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 19:23:26,387 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+2024-12-15 19:23:26,387 [INFO] Complete Packets Data: []
+2024-12-15 19:23:26,387 [INFO] Remaining Packets Data: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 19:23:33,307 [INFO] Raw Data: mg/dL   00D8
+2024-12-15 19:23:33,307 [WARNING] Data line: mg/dL   00D8
+2024-12-15 19:23:33,307 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 19:23:33,307 [INFO] Complete Packets Data: []
+2024-12-15 19:23:33,307 [INFO] Remaining Packets Data: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2mg/dL   00D8
+2024-12-15 19:23:38,793 [INFO] Raw Data: !003h0098ED
+2024-12-15 19:23:38,793 [WARNING] Data line: !003h0098ED
+2024-12-15 19:23:38,793 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7FF01.000  08
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2mg/dL   00D8
+2024-12-15 19:23:38,793 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7FF01.000  08\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2mg/dL   00D8\n!003h0098ED']
+2024-12-15 19:23:38,793 [INFO] Remaining Packets Data: 
+2024-12-15 19:23:38,793 [WARNING] lines split ['!000a0200984879  1823042412151012551-CS     11 7FF01.000  08', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2mg/dL   00D8', '!003h0098ED']
+2024-12-15 19:23:39,644 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:23:39,644 [INFO] test_ids Data: {}
+2024-12-15 19:23:39,645 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L'}, {'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'CREA', 'patient_name': 'Unknown Patient', 'value': '1.20', 'unit': 'mg/dL   0'}]
+2024-12-15 19:26:39,478 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 19:26:39,478 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:26:39,478 [WARNING] Data Packet: 
+2024-12-15 19:26:39,479 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 19:26:39,479 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:26:39,479 [WARNING] Data line: !002h0075E7
+2024-12-15 19:26:39,479 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 19:26:39,479 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 19:26:39,479 [INFO] Remaining Packets Data: 
+2024-12-15 19:26:39,479 [WARNING] lines split ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82', '!001fECO2    20.  mg/dL   00DC', '!002h0075E7']
+2024-12-15 19:26:41,667 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:26:41,667 [INFO] test_ids Data: {}
+2024-12-15 19:26:41,667 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 0, 'test_id': 0, 'name': 'ECO2', 'patient_name': 'Unknown Patient', 'value': '20.0', 'unit': 'mg/dL'}]
+2024-12-15 19:51:26,130 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 19:51:26,133 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:51:26,133 [WARNING] Data Packet: 
+2024-12-15 19:51:26,134 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 19:51:26,134 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:51:26,134 [WARNING] Data line: !002h0075E7
+2024-12-15 19:51:26,134 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 19:51:26,134 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 19:51:26,134 [INFO] Remaining Packets Data: 
+2024-12-15 19:51:26,134 [WARNING] lines split ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82', '!001fECO2    20.  mg/dL   00DC', '!002h0075E7']
+2024-12-15 19:51:27,446 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:51:27,446 [INFO] test_ids Data: {}
+2024-12-15 19:51:27,446 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 0, 'test_id': 0, 'name': 'ECO2', 'patient_name': 'Unknown Patient', 'value': '20.0', 'unit': 'mg/dL'}]
+2024-12-15 19:54:06,109 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 19:54:06,109 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:54:06,109 [WARNING] Data Packet: 
+2024-12-15 19:54:06,110 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 19:54:06,110 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:54:06,111 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 19:54:06,112 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 19:54:06,113 [WARNING] Data line: !003h0098ED
+2024-12-15 19:54:06,115 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 19:54:06,116 [WARNING] Data line: 
+2024-12-15 19:54:06,116 [WARNING] Data Packet: 
+2024-12-15 19:54:06,116 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 19:54:06,117 [WARNING] Data Packet: 
+2024-12-15 19:54:06,117 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 19:54:06,117 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 19:54:06,117 [WARNING] Data line: !002h0019E5
+2024-12-15 19:54:06,117 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 19:54:06,117 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 19:54:06,117 [INFO] Remaining Packets Data: 
+2024-12-15 19:54:06,117 [WARNING] lines split ['!000a0200984879  1823042412151012551-CS     11 7', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', '!003h0098ED']
+2024-12-15 19:54:06,351 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:54:06,351 [INFO] test_ids Data: {}
+2024-12-15 19:54:06,351 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L'}]
+2024-12-15 19:56:34,781 [WARNING] lines split ['!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9', '!001fALTV   14.  U/L     0052', '!002h0019E5']
+2024-12-15 19:56:35,001 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:56:35,001 [INFO] test_ids Data: {}
+2024-12-15 19:56:35,002 [INFO] Parsed Data: [{'barcode': '1012574', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 14.0, 'unit': 'U/L'}]
+2024-12-15 19:57:47,101 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 19:57:47,101 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:57:47,102 [WARNING] Data Packet: 
+2024-12-15 19:57:47,102 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 19:57:47,102 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 19:57:47,102 [WARNING] Data line: !002h0075E7
+2024-12-15 19:57:47,102 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 19:57:47,102 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 19:57:47,103 [INFO] Remaining Packets Data: 
+2024-12-15 19:57:47,103 [WARNING] lines split ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82', '!001fECO2    20.  mg/dL   00DC', '!002h0075E7']
+2024-12-15 19:57:47,244 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:57:47,244 [INFO] test_ids Data: {}
+2024-12-15 19:57:47,245 [INFO] Parsed Data: [{'barcode': '1012530', 'id': 0, 'test_id': 0, 'name': 'ECO2', 'patient_name': 'Unknown Patient', 'value': '20.0', 'unit': 'mg/dL'}]
+2024-12-15 19:58:14,240 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 19:58:14,240 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:58:14,240 [WARNING] Data Packet: 
+2024-12-15 19:58:14,241 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 19:58:14,241 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 19:58:14,241 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 19:58:14,241 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 19:58:14,241 [WARNING] Data line: !003h0098ED
+2024-12-15 19:58:14,241 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 19:58:14,241 [WARNING] Data line: 
+2024-12-15 19:58:14,242 [WARNING] Data Packet: 
+2024-12-15 19:58:14,242 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 19:58:14,242 [WARNING] Data Packet: 
+2024-12-15 19:58:14,242 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 19:58:14,242 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 19:58:14,242 [WARNING] Data line: !002h0019E5
+2024-12-15 19:58:14,242 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 19:58:14,242 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 19:58:14,243 [INFO] Remaining Packets Data: 
+2024-12-15 19:58:14,243 [WARNING] lines split ['!000a0200984879  1823042412151012551-CS     11 7', '!001fALTV   17.  U/L     0055', '!002fCREA    1.2', '!003h0098ED']
+2024-12-15 19:58:14,398 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:58:14,398 [INFO] test_ids Data: {}
+2024-12-15 19:58:14,398 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L'}]
+2024-12-15 19:58:14,483 [WARNING] lines split ['!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9', '!001fALTV   14.  U/L     0052', '!002h0019E5']
+2024-12-15 19:58:14,556 [INFO] response_json Data: {'type': 'success', 'data': [], 'note': 'Data processed successfully', 'status': 200}
+2024-12-15 19:58:14,557 [INFO] test_ids Data: {}
+2024-12-15 19:58:14,557 [INFO] Parsed Data: [{'barcode': '1012574', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 14.0, 'unit': 'U/L'}]
+2024-12-15 20:04:45,728 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 20:04:45,730 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:04:45,730 [WARNING] Data Packet: 
+2024-12-15 20:04:45,730 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 20:04:45,730 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:04:45,731 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 20:04:45,731 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 20:04:45,731 [WARNING] Data line: !003h0098ED
+2024-12-15 20:04:45,732 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 20:04:45,732 [WARNING] Data line: 
+2024-12-15 20:04:45,732 [WARNING] Data Packet: 
+2024-12-15 20:04:45,732 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:04:45,732 [WARNING] Data Packet: 
+2024-12-15 20:04:45,732 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 20:04:45,732 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:04:45,732 [WARNING] Data line: !002h0019E5
+2024-12-15 20:04:45,732 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 20:04:45,732 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 20:04:45,733 [INFO] Remaining Packets Data: 
+2024-12-15 20:10:36,470 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 20:10:36,471 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:10:36,471 [WARNING] Data Packet: 
+2024-12-15 20:10:36,471 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 20:10:36,471 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:10:36,472 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 20:10:36,472 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 20:10:36,472 [WARNING] Data line: !003h0098ED
+2024-12-15 20:10:36,472 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 20:10:36,472 [WARNING] Data line: 
+2024-12-15 20:10:36,472 [WARNING] Data Packet: 
+2024-12-15 20:10:36,473 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:10:36,473 [WARNING] Data Packet: 
+2024-12-15 20:10:36,473 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 20:10:36,473 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:10:36,473 [WARNING] Data line: !002h0019E5
+2024-12-15 20:10:36,473 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 20:10:36,474 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 20:10:36,474 [INFO] Remaining Packets Data: 
+2024-12-15 20:10:37,474 [INFO] Parsed Data: [{'barcode': '1012551', 'id': 0, 'test_id': 0, 'name': 'ALTV', 'patient_name': 'Unknown Patient', 'value': 17.0, 'unit': 'U/L', 'status': 'success'}]
+2024-12-15 20:12:06,031 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 20:12:06,031 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:12:06,031 [WARNING] Data Packet: 
+2024-12-15 20:12:06,031 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 20:12:06,031 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:12:06,032 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 20:12:06,032 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 20:12:06,032 [WARNING] Data line: !003h0098ED
+2024-12-15 20:12:06,032 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 20:12:06,032 [WARNING] Data line: 
+2024-12-15 20:12:06,032 [WARNING] Data Packet: 
+2024-12-15 20:12:06,032 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:12:06,033 [WARNING] Data Packet: 
+2024-12-15 20:12:06,033 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 20:12:06,033 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:12:06,033 [WARNING] Data line: !002h0019E5
+2024-12-15 20:12:06,033 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 20:12:06,033 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 20:12:06,033 [INFO] Remaining Packets Data: 
+2024-12-15 20:12:26,580 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 20:12:26,580 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:12:26,580 [WARNING] Data Packet: 
+2024-12-15 20:12:26,580 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 20:12:26,580 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:12:26,580 [WARNING] Data line: !002h0075E7
+2024-12-15 20:12:26,580 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 20:12:26,581 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 20:12:26,581 [INFO] Remaining Packets Data: 
+2024-12-15 20:13:27,676 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 20:13:27,676 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:13:27,677 [WARNING] Data Packet: 
+2024-12-15 20:13:27,678 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 20:13:27,678 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:13:27,679 [WARNING] Data line: !002h0075E7
+2024-12-15 20:13:27,679 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 20:13:27,679 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 20:13:27,679 [INFO] Remaining Packets Data: 
+2024-12-15 20:13:32,465 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 20:13:32,466 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:13:32,466 [WARNING] Data Packet: 
+2024-12-15 20:13:32,466 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 20:13:32,466 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:13:32,466 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 20:13:32,467 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 20:13:32,467 [WARNING] Data line: !003h0098ED
+2024-12-15 20:13:32,467 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 20:13:32,467 [WARNING] Data line: 
+2024-12-15 20:13:32,467 [WARNING] Data Packet: 
+2024-12-15 20:13:32,468 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:13:32,468 [WARNING] Data Packet: 
+2024-12-15 20:13:32,468 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 20:13:32,468 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:13:32,468 [WARNING] Data line: !002h0019E5
+2024-12-15 20:13:32,468 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 20:13:32,468 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 20:13:32,468 [INFO] Remaining Packets Data: 
+2024-12-15 20:13:50,191 [INFO] Raw Data: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+!002h0075E7
+2024-12-15 20:13:50,191 [WARNING] Data line: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:13:50,191 [WARNING] Data Packet: 
+2024-12-15 20:13:50,192 [WARNING] Data line: !001fECO2    20.  mg/dL   00DC
+2024-12-15 20:13:50,192 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+2024-12-15 20:13:50,193 [WARNING] Data line: !002h0075E7
+2024-12-15 20:13:50,193 [WARNING] Data Packet: !000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82
+!001fECO2    20.  mg/dL   00DC
+2024-12-15 20:13:50,193 [INFO] Complete Packets Data: ['!000a0200794879  1655362412151012530-CO2          11 1               FF01.000  82\n!001fECO2    20.  mg/dL   00DC\n!002h0075E7']
+2024-12-15 20:13:50,193 [INFO] Remaining Packets Data: 
+2024-12-15 20:13:55,081 [INFO] Raw Data: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+!003h0098ED
+
+!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+!002h0019E5
+2024-12-15 20:13:55,081 [WARNING] Data line: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:13:55,081 [WARNING] Data Packet: 
+2024-12-15 20:13:55,082 [WARNING] Data line: !001fALTV   17.  U/L     0055
+2024-12-15 20:13:55,082 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+2024-12-15 20:13:55,082 [WARNING] Data line: !002fCREA    1.2
+2024-12-15 20:13:55,082 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+2024-12-15 20:13:55,082 [WARNING] Data line: !003h0098ED
+2024-12-15 20:13:55,082 [WARNING] Data Packet: !000a0200984879  1823042412151012551-CS     11 7
+!001fALTV   17.  U/L     0055
+!002fCREA    1.2
+2024-12-15 20:13:55,084 [WARNING] Data line: 
+2024-12-15 20:13:55,084 [WARNING] Data Packet: 
+2024-12-15 20:13:55,084 [WARNING] Data line: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:13:55,084 [WARNING] Data Packet: 
+2024-12-15 20:13:55,084 [WARNING] Data line: !001fALTV   14.  U/L     0052
+2024-12-15 20:13:55,084 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+2024-12-15 20:13:55,084 [WARNING] Data line: !002h0019E5
+2024-12-15 20:13:55,085 [WARNING] Data Packet: !000a0200194879  1956522412151012574-S      13 1               FF01.000  E9
+!001fALTV   14.  U/L     0052
+2024-12-15 20:13:55,085 [INFO] Complete Packets Data: ['!000a0200984879  1823042412151012551-CS     11 7\n!001fALTV   17.  U/L     0055\n!002fCREA    1.2\n!003h0098ED', '!000a0200194879  1956522412151012574-S      13 1               FF01.000  E9\n!001fALTV   14.  U/L     0052\n!002h0019E5']
+2024-12-15 20:13:55,085 [INFO] Remaining Packets Data: 
+2024-12-16 14:49:52,907 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+!002h0075E7
+2024-12-16 14:49:52,910 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:49:52,910 [WARNING] Data Packet: 
+2024-12-16 14:49:52,910 [WARNING] Data line: !001fCHOL    217  mg/dL   00DC
+2024-12-16 14:49:52,910 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:49:52,910 [WARNING] Data line: !002h0075E7
+2024-12-16 14:49:52,911 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+2024-12-16 14:49:52,911 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    217  mg/dL   00DC\n!002h0075E7']
+2024-12-16 14:49:52,911 [INFO] Remaining Packets Data: 
+2024-12-16 14:50:43,990 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    218  mg/dL   00DC
+!002h0075E7
+2024-12-16 14:50:43,990 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:50:43,990 [WARNING] Data Packet: 
+2024-12-16 14:50:43,990 [WARNING] Data line: !001fCHOL    218  mg/dL   00DC
+2024-12-16 14:50:43,990 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:50:43,990 [WARNING] Data line: !002h0075E7
+2024-12-16 14:50:43,990 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    218  mg/dL   00DC
+2024-12-16 14:50:43,990 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    218  mg/dL   00DC\n!002h0075E7']
+2024-12-16 14:50:43,990 [INFO] Remaining Packets Data: 
+2024-12-16 14:52:01,041 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:52:06,042 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:52:11,043 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:52:16,044 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:52:21,044 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:52:26,045 [ERROR] Serial connection error: could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5). Retrying...
+2024-12-16 14:53:45,652 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    218  mg/dL   00DC
+!002h0075E7
+2024-12-16 14:53:45,652 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:53:45,653 [WARNING] Data Packet: 
+2024-12-16 14:53:45,653 [WARNING] Data line: !001fCHOL    218  mg/dL   00DC
+2024-12-16 14:53:45,653 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:53:45,654 [WARNING] Data line: !002h0075E7
+2024-12-16 14:53:45,654 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    218  mg/dL   00DC
+2024-12-16 14:53:45,654 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    218  mg/dL   00DC\n!002h0075E7']
+2024-12-16 14:53:45,654 [INFO] Remaining Packets Data: 
+2024-12-16 14:53:46,764 [INFO] Parsed Data: [{'barcode': '966137', 'id': 144, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 218.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 14:54:57,636 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 14:54:57,636 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:54:57,638 [WARNING] Data Packet: 
+2024-12-16 14:54:57,638 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 14:54:57,639 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 14:54:57,641 [WARNING] Data line: !002h0075E7
+2024-12-16 14:54:57,641 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 14:54:57,641 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 14:54:57,641 [INFO] Remaining Packets Data: 
+2024-12-16 14:54:58,677 [INFO] Parsed Data: [{'barcode': '966137', 'id': 144, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:00:56,448 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:00:56,449 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:00:56,449 [WARNING] Data Packet: 
+2024-12-16 15:00:56,450 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 15:00:56,450 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:00:56,452 [WARNING] Data line: !002h0075E7
+2024-12-16 15:00:56,452 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 15:00:56,452 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:00:56,455 [INFO] Remaining Packets Data: 
+2024-12-16 15:00:57,533 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:02:37,139 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:02:37,139 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:02:37,140 [WARNING] Data Packet: 
+2024-12-16 15:02:37,140 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 15:02:37,140 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:02:37,140 [WARNING] Data line: !002h0075E7
+2024-12-16 15:02:37,141 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 15:02:37,141 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:02:37,141 [INFO] Remaining Packets Data: 
+2024-12-16 15:02:38,585 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:04:50,090 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:04:50,096 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:04:50,097 [WARNING] Data Packet: 
+2024-12-16 15:04:50,097 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 15:04:50,097 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:04:50,097 [WARNING] Data line: !002h0075E7
+2024-12-16 15:04:50,098 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 15:04:50,098 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:04:50,098 [INFO] Remaining Packets Data: 
+2024-12-16 15:04:51,435 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:18:37,906 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:18:37,907 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:18:37,907 [WARNING] Data Packet: 
+2024-12-16 15:18:37,908 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 15:18:37,908 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:18:37,909 [WARNING] Data line: !002h0075E7
+2024-12-16 15:18:37,909 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 15:18:37,910 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:18:37,910 [INFO] Remaining Packets Data: 
+2024-12-16 15:18:38,923 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:19:45,484 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:19:45,485 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:19:45,485 [WARNING] Data Packet: 
+2024-12-16 15:19:45,485 [WARNING] Data line: !001fCHOL    219  mg/dL   00DC
+2024-12-16 15:19:45,486 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:19:45,486 [WARNING] Data line: !002h0075E7
+2024-12-16 15:19:45,486 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    219  mg/dL   00DC
+2024-12-16 15:19:45,486 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    219  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:19:45,487 [INFO] Remaining Packets Data: 
+2024-12-16 15:19:46,596 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 219.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:23:17,270 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    229  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:23:17,270 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:23:17,270 [WARNING] Data Packet: 
+2024-12-16 15:23:17,270 [WARNING] Data line: !001fCHOL    229  mg/dL   00DC
+2024-12-16 15:23:17,270 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:23:17,270 [WARNING] Data line: !002h0075E7
+2024-12-16 15:23:17,271 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    229  mg/dL   00DC
+2024-12-16 15:23:17,271 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    229  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:23:17,271 [INFO] Remaining Packets Data: 
+2024-12-16 15:23:18,498 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 229.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:29:24,134 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:29:24,134 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:29:24,135 [WARNING] Data Packet: 
+2024-12-16 15:29:24,135 [WARNING] Data line: !001fCHOL    217  mg/dL   00DC
+2024-12-16 15:29:24,135 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:29:24,135 [WARNING] Data line: !002h0075E7
+2024-12-16 15:29:24,136 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+2024-12-16 15:29:24,136 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    217  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:29:24,136 [INFO] Remaining Packets Data: 
+2024-12-16 15:29:25,147 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 217.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:32:51,611 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    117  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:32:51,612 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:32:51,612 [WARNING] Data Packet: 
+2024-12-16 15:32:51,612 [WARNING] Data line: !001fCHOL    117  mg/dL   00DC
+2024-12-16 15:32:51,612 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:32:51,613 [WARNING] Data line: !002h0075E7
+2024-12-16 15:32:51,613 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    117  mg/dL   00DC
+2024-12-16 15:32:51,613 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    117  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:32:51,613 [INFO] Remaining Packets Data: 
+2024-12-16 15:32:52,903 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 117.0, 'unit': 'mg/dL', 'status': 'success'}]
+2024-12-16 15:39:19,167 [INFO] Raw Data: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+!002h0075E7
+2024-12-16 15:39:19,167 [WARNING] Data line: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:39:19,168 [WARNING] Data Packet: 
+2024-12-16 15:39:19,170 [WARNING] Data line: !001fCHOL    217  mg/dL   00DC
+2024-12-16 15:39:19,172 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+2024-12-16 15:39:19,174 [WARNING] Data line: !002h0075E7
+2024-12-16 15:39:19,175 [WARNING] Data Packet: !000a0200794879  165536241215966137           11 1               FF01.000  82
+!001fCHOL    217  mg/dL   00DC
+2024-12-16 15:39:19,175 [INFO] Complete Packets Data: ['!000a0200794879  165536241215966137           11 1               FF01.000  82\n!001fCHOL    217  mg/dL   00DC\n!002h0075E7']
+2024-12-16 15:39:19,175 [INFO] Remaining Packets Data: 
+2024-12-16 15:39:20,291 [INFO] Parsed Data: [{'barcode': '966137', 'id': 143, 'test_id': 142, 'name': 'Lipid Profile (Rando  CHOL', 'patient_name': 'Md.kamrul Hasin', 'value': 217.0, 'unit': 'mg/dL', 'status': 'success'}]

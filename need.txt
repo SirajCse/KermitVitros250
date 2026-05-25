@@ -1,0 +1,8 @@
+API_URL = http://www.htncr.com/ajax/set-hl7
+GET_URL = http://www.htncr.com/ajax/set-hl7-barcode
+
+
+format_value(value)
+
+def format_value(value):
+    return round(value, 2)
